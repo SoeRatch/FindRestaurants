@@ -1,3 +1,10 @@
+
+This is a demo Frontend application work sample made with React along with Express and Mongo on the backend .
+It shows various cuisines and hence Restaurants available for that cuisines . One can also search and view various restaurants and its details ( bookings,ratings,costfortwo, etc ) . 
+
+Given two csv files i.e demo_data/restaurant.csv and demo_data/location.csv , it imports those data into mongodb and hence with the mongoose schema designed accordingly helps in creating working api end points in express backend .
+This work sample includes responsive dashboard with React and material-ui on the front-end part.
+
 ### Prerequisites ##
 1. Install MongoDB 
 2. Install Node v8.12.0
